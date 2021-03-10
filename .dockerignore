@@ -1,0 +1,8 @@
+.dockerignore
+.git
+.gitignore
+.jshintrc
+CONTRIBUTING.md
+Dockerfile
+README.md
+Rakefile
